@@ -1,0 +1,13 @@
+package com.example.in28minutes.database.databasedemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringJdbcDemoApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
